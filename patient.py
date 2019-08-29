@@ -1,3 +1,4 @@
+# Not finished. Coming back to this one
 class Patient:
 
     def __init__(self, social, dob, acc_num, first, last, address):
